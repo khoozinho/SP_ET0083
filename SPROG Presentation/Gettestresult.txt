@@ -1,0 +1,5 @@
+Unsympathetic(0-4)
+Subnormal(5-9)
+Normal(10-14)
+Above-average(15-19)
+Gifted(20-25)

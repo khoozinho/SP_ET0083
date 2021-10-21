@@ -1,0 +1,5 @@
+Name: Grace
+Age: 19
+Gender(M/F): F
+Score : 17
+Remarks based on your score : Above-average

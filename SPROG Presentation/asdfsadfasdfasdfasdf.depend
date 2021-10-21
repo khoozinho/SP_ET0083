@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1486442924 source:c:\users\richard\onedrive\week 1 (programming)\asdfsadfasdfasdfasdf\main.cpp
+	<iostream>
+	<fstream>
+
+1486870919 source:c:\users\user\documents\group work sprog\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
